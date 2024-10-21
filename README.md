@@ -21,6 +21,15 @@ ___
 - 📱 With **20+ successfully launched apps** across various platforms, I prioritize performance, user experience, and code quality.  
 - 🌱 Continuously learning and evolving with the latest tools, libraries, and trends in the **Flutter** ecosystem.
 
+
+- 👨‍💻 Experienced **Software Engineer** specializing in **Flutter** and **Dart** for cross-platform apps.  
+- 🛠️ Expert in **Bloc, Cubit, Provider** for efficient state management.  
+- 🏛️ Proficient with **MVVM, MVC, and Clean Architecture** for scalable, maintainable code.  
+- 🔗 Skilled in **third-party API integrations** and **Firebase** services.  
+- 🔔 Experienced with **push, local, and scheduled notifications** for user engagement.  
+- 📱 Built and launched **20+ apps** with a focus on performance and UX.  
+- 🌱 Always learning and staying updated with the latest in **Flutter**.
+
 ---
 
 ### 🔗 &nbsp;Contact Me
