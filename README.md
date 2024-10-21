@@ -13,12 +13,13 @@
 
 ___
 
-- 👨‍💻 As a Software Engineering student, I'm constantly learning and exploring new technologies to
-  improve my skills.
-- 💬 Ask me about my experience with ***Flutter, C++, Java***.
-- 🌱 I’m currently learning ***[Flutter](https://flutter.dev/)*** •
-  ***[Node.Js](https://nodejs.org/en/learn/getting-started/introduction-to-nodejs).***
-- 😎 I'm a ***LeetCoder & CodeForces Coder***.
+- 👨‍💻 I'm an experienced **Software Engineer** with a deep focus on cross-platform mobile development using **Flutter** and **Dart**.  
+- 🛠️ Expert in **state management solutions** like **Bloc, Cubit, and Provider**, ensuring scalable and maintainable code.  
+- 🏛️ Strong understanding of architectural patterns, including **MVVM, MVC, and Clean Architecture**, to create robust and modular applications.  
+- 🔗 Skilled in **integrating third-party APIs** and working with **Firebase** for backend services and real-time functionality.  
+- 🔔 Experienced in handling **all types of notifications**—push, local, and scheduled—ensuring seamless user engagement.  
+- 📱 With **20+ successfully launched apps** across various platforms, I prioritize performance, user experience, and code quality.  
+- 🌱 Continuously learning and evolving with the latest tools, libraries, and trends in the **Flutter** ecosystem.
 
 ---
 
@@ -29,7 +30,7 @@ ___
 <a href="https://www.linkedin.com/in/itsnk/"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-0a66c2.svg?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
 <!--   <a href="https://www.instagram.com//"><img alt="instagram" src="https://img.shields.io/badge/instagram-E1306C.svg?style=for-the-badge&logo=instagram&logoColor=white"/></a> -->
 <a href="https://www.facebook.com/Im.NK07/"><img alt="facebook" src="https://img.shields.io/badge/facebook-0165e1.svg?style=for-the-badge&logo=facebook&logoColor=white"/></a>
-<a href="wa.me/923339764616"><img alt="facebook" src="https://img.shields.io/badge/whatsapp-25D366.svg?style=for-the-badge&logo=whatsapp&logoColor=white"/></a>
+<a href="https://wa.me/923339764616"><img alt="facebook" src="https://img.shields.io/badge/whatsapp-25D366.svg?style=for-the-badge&logo=whatsapp&logoColor=white"/></a>
 <!--   <a href="https://leetcode.com//"><img alt="leetcode" src="https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=LeetCode&logoColor=#d16c06"/></a> -->
 <!--   <a href="https://codeforces.com/profile/Ahmad_Nour_Haidar"><img alt="Codeforces" src="https://img.shields.io/badge/Codeforces-FF0000?style=for-the-badge&logo=Codeforces&logoColor=FFffff"/></a> -->
 <!-- <a href="https://t.me/Ahmad_Nour_Haidar"><img alt="Telegram" src="https://img.shields.io/badge/Telegram-27a7e7?style=for-the-badge&logo=telegram&logoColor=white" /></a> -->
