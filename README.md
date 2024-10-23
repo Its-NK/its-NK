@@ -63,7 +63,7 @@ ___
 
 
 
-## Contributions Last Year
+### Contributions Last Year
 <div align="center">
   <img src="https://github.com/Its-NK/its-NK/blob/main/Screenshot%202024-10-23%20115737.png" alt="" width="800"/>
 </div>
