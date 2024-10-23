@@ -62,7 +62,7 @@ ___
 </div>
 
 <div align="center">
-  <img src="https://github.com/Its-NK/its-NK/blob/main/Screenshot%202024-10-23%20115737.png" alt="Description of image" width="600"/>
+  <img src="https://github.com/Its-NK/its-NK/blob/main/Screenshot%202024-10-23%20115737.png" alt="Contributions last year" width="800"/>
 </div>
 
 ### 💳 Github Profile Summary Card
