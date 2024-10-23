@@ -61,8 +61,8 @@ ___
 ![](https://github-readme-stats.vercel.app/api?username=its-NK&theme=algolia&show_icons=true&count_private=true&bg_color=1e2b3c&border_color=B2E0FF&icon_color=95ccff&border_radius=20&include_all_commits=true&rank_icon=percentile)
 </div>
 
-<div align=center>
-![](https://github.com/Its-NK/its-NK/blob/main/Screenshot%202024-10-23%20115737.png)
+<div align="center">
+  <img src="https://github.com/Its-NK/its-NK/blob/main/Screenshot%202024-10-23%20115737.png" alt="Description of image" width="600"/>
 </div>
 
 ### 💳 Github Profile Summary Card
