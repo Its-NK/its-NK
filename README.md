@@ -61,8 +61,10 @@ ___
 ![](https://github-readme-stats.vercel.app/api?username=its-NK&theme=algolia&show_icons=true&count_private=true&bg_color=1e2b3c&border_color=B2E0FF&icon_color=95ccff&border_radius=20&include_all_commits=true&rank_icon=percentile)
 </div>
 
+
+## Contributions Last Year
 <div align="center">
-  <img src="https://github.com/Its-NK/its-NK/blob/main/Screenshot%202024-10-23%20115737.png" alt="Contributions last year" width="800"/>
+  <img src="https://github.com/Its-NK/its-NK/blob/main/Screenshot%202024-10-23%20115737.png" alt="" width="800"/>
 </div>
 
 ### 💳 Github Profile Summary Card
