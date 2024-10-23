@@ -62,7 +62,7 @@ ___
 </div>
 
 <div align=center>
-https://github.com/Its-NK/its-NK/blob/main/Screenshot%202024-10-23%20115737.png
+![](https://github.com/Its-NK/its-NK/blob/main/Screenshot%202024-10-23%20115737.png)
 </div>
 
 ### 💳 Github Profile Summary Card
